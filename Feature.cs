@@ -15,35 +15,8 @@ namespace Payroll.Models.DomainModels.CommonDb.FeatureFlags
 
         #region TeamB Features
         // TeamB owns this region
-        BetaAlgorithm
-        CloudSync
-        CloudSync2
-        CloudSync3
-        CloudSync4
-        CloudSync5
-        CloudSync5
-        CloudSync6
-        CloudSync7
-        CloudSync8
-        CloudSync9
-        AdvancedFiltering  // New feature added by TeamB
-        AdvancedFiltering2  // New feature added by TeamB
-        AdvancedFiltering3  // New feature added by TeamB
-        AdvancedFiltering4 // New feature added by TeamB
-        AdvancedFiltering5  // New feature added by TeamB
-        AdvancedFiltering6  // New feature added by TeamB
-        AdvancedFiltering7  // New feature added by TeamB
-        AdvancedFiltering8  // New feature added by TeamB
-        AdvancedFiltering9  // New feature added by TeamB
-        ExportToExcel // New feature added by TeamB
-        ExportToExcel2 // New feature added by TeamB
-        ExportToExcel3 // New feature added by TeamB
-        ExportToExcel4 // New feature added by TeamB
-        ExportToExcel5 // New feature added by TeamB
-        ExportToExcel6 // New feature added by TeamB
-        ExportToExcel7 // New feature added by TeamB
-        ExportToExcel8 // New feature added by TeamB
-        ExportToExcel9 // New feature added by TeamB
+        BetaAlgorithm,
+        CloudSync,
         #endregion
 
         #region TeamC Features
