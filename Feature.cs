@@ -44,6 +44,30 @@ namespace Payroll.Models.DomainModels.CommonDb.FeatureFlags
         ExportToExcel7 // New feature added by TeamB
         ExportToExcel8 // New feature added by TeamB
         ExportToExcel9 // New feature added by TeamB
+        ExportToExcel91 // New feature added by TeamB
+        ExportToExcel92 // New feature added by TeamB
+        ExportToExcel93 // New feature added by TeamB
+        ExportToExcel94 // New feature added by TeamB
+        ExportToExcel95 // New feature added by TeamB
+        ExportToExcel96 // New feature added by TeamB
+        ExportToExcel97 // New feature added by TeamB
+        ExportToExcel98 // New feature added by TeamB
+        ExportToExcel99 // New feature added by TeamB
+        ExportToExcel19 // New feature added by TeamB
+        ExportToExcel29 // New feature added by TeamB
+        ExportToExcel39 // New feature added by TeamB
+        ExportToExcel49 // New feature added by TeamB
+        ExportToExcel59 // New feature added by TeamB
+        ExportToExcel69 // New feature added by TeamB
+        ExportToExcel79 // New feature added by TeamB
+        ExportToExcel89 // New feature added by TeamB
+        ExportToExcel99 // New feature added by TeamB
+        ExportToExcel00 // New feature added by TeamB
+        ExportToExcel01 // New feature added by TeamB
+        ExportToExcel02 // New feature added by TeamB
+        ExportToExcel03 // New feature added by TeamB
+        ExportToExcel04 // New feature added by TeamB
+        ExportToExcel05 // New feature added by TeamB
         #endregion
 
         #region TeamC Features
