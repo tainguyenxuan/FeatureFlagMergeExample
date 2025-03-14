@@ -23,6 +23,26 @@ namespace Payroll.Models.DomainModels.CommonDb.FeatureFlags
         // TeamC owns this region
         NewPaymentProcessor,
         EnhancedSecurity,
+        EnhancedSecurity1,
+        EnhancedSecurity2,
+        EnhancedSecurity3,
+        EnhancedSecurity4,
+        EnhancedSecurity5,
+        EnhancedSecurity6,
+        EnhancedSecurity7,
+        EnhancedSecurity8,
+        EnhancedSecurity9,
+        EnhancedSecurity0,
+        EnhancedSecurity01,
+        EnhancedSecurity02,
+        EnhancedSecurity03,
+        EnhancedSecurity04,
+        EnhancedSecurity05,
+        EnhancedSecurity06,
+        EnhancedSecurity07,
+        EnhancedSecurity08,
+        EnhancedSecurity09,
+        EnhancedSecurity00,
         #endregion
 	}
 }
